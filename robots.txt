@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebebauyi.github.io/sitemap_index.ebebauyi
